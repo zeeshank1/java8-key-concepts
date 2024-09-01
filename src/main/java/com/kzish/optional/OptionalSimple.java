@@ -6,7 +6,7 @@ import java.util.Optional;
 public class OptionalSimple {
 
     public static void main(String[] args) {
-        Optional<String> vehicle = Optional.of("CAR");
+        Optional<String> vehicle = Optional.of("BIKE");
         String answerOne = "YES";
         String answerTwo = null;
 
