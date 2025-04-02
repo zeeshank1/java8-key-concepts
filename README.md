@@ -4,7 +4,7 @@ This repository contains a collection of key concepts and examples related to Ja
 
 ## Project Structure
 
-The repository is organized into different folders, each focusing on a specific Java 8 feature like Lambda Expressions, Stream API, and more.
+The repository is organized into different folders, each focusing on a specific Java 8 feature like Lambda Expressions, Stream API, and more topics.
 
 ## Getting Started
 
