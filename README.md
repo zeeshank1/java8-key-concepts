@@ -17,4 +17,4 @@ cd java8-key-concepts
 
 ## Prerequisites
 
-Java version-8 or higher versions
+Java version-8 or higher versions.
