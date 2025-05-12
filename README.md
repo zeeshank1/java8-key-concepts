@@ -1,4 +1,4 @@
-# Java 8 Key Concepts
+no# Java 8 Key Concepts
 
 This repository contains a collection of key concepts and examples related to Java 8. It serves as a quick reference and practice resource for anyone looking to brush up on Java 8 features.
 
@@ -13,6 +13,7 @@ Clone the repository and explore the examples:
 ```bash
 git clone https://github.com/zeeshank1/java8-key-concepts.git
 cd java8-key-concepts
+cd src
 ```
 
 ## Prerequisites
